@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "supremeteamhandymanservices.com"
+        }
+      ],
+      "destination": "https://www.supremeteamhandymanservices.com/$1",
+      "permanent": true
+    }
+  ]
+}
