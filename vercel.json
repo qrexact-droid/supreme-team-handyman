@@ -3,14 +3,19 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "supremeteamhandymanservices.com"
-        }
-      ],
+      "has": [{ "type": "host", "value": "supremeteamhandymanservices.com" }],
       "destination": "https://www.supremeteamhandymanservices.com/$1",
       "permanent": true
-    }
+    },
+    { "source": "/henderson",            "destination": "/henderson-handyman",      "permanent": true },
+    { "source": "/summerlin",            "destination": "/summerlin-handyman",      "permanent": true },
+    { "source": "/enterprise",           "destination": "/enterprise-nv-handyman",  "permanent": true },
+    { "source": "/spring-valley",        "destination": "/spring-valley-handyman",  "permanent": true },
+    { "source": "/las-vegas-handyman",   "destination": "/",                        "permanent": true },
+    { "source": "/handyman-las-vegas",   "destination": "/",                        "permanent": true },
+    { "source": "/handyman",             "destination": "/",                        "permanent": true },
+    { "source": "/services",             "destination": "/",                        "permanent": true },
+    { "source": "/contact",             "destination": "/",                        "permanent": true },
+    { "source": "/about",               "destination": "/",                        "permanent": true }
   ]
 }
