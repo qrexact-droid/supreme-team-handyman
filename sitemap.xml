@@ -2,32 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.supremeteamhandymanservices.com/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.supremeteamhandymanservices.com/summerlin-handyman</loc>
-    <lastmod>2026-04-16</lastmod>
+    <loc>https://www.supremeteamhandymanservices.com/drywall-repair-las-vegas</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.supremeteamhandymanservices.com/enterprise-nv-handyman</loc>
-    <lastmod>2026-04-16</lastmod>
+    <loc>https://www.supremeteamhandymanservices.com/interior-painting-las-vegas</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.supremeteamhandymanservices.com/spring-valley-handyman</loc>
-    <lastmod>2026-04-16</lastmod>
+    <loc>https://www.supremeteamhandymanservices.com/door-repair-las-vegas</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.supremeteamhandymanservices.com/flooring-las-vegas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.supremeteamhandymanservices.com/faucet-installation-las-vegas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.supremeteamhandymanservices.com/garbage-disposal-las-vegas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.supremeteamhandymanservices.com/commercial-handyman-las-vegas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.supremeteamhandymanservices.com/henderson-handyman</loc>
-    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.supremeteamhandymanservices.com/summerlin-handyman</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.supremeteamhandymanservices.com/spring-valley-handyman</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.supremeteamhandymanservices.com/enterprise-nv-handyman</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>

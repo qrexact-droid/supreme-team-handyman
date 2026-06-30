@@ -1,21 +1,51 @@
 {
-  "version": 2,
-  "redirects": [
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": "supremeteamhandymanservices.com" }],
-      "destination": "https://www.supremeteamhandymanservices.com/$1",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/drywall-repair-las-vegas/",
+      "destination": "/drywall-repair-las-vegas",
       "permanent": true
     },
-    { "source": "/henderson",            "destination": "/henderson-handyman",      "permanent": true },
-    { "source": "/summerlin",            "destination": "/summerlin-handyman",      "permanent": true },
-    { "source": "/enterprise",           "destination": "/enterprise-nv-handyman",  "permanent": true },
-    { "source": "/spring-valley",        "destination": "/spring-valley-handyman",  "permanent": true },
-    { "source": "/las-vegas-handyman",   "destination": "/",                        "permanent": true },
-    { "source": "/handyman-las-vegas",   "destination": "/",                        "permanent": true },
-    { "source": "/handyman",             "destination": "/",                        "permanent": true },
-    { "source": "/services",             "destination": "/",                        "permanent": true },
-    { "source": "/contact",             "destination": "/",                        "permanent": true },
-    { "source": "/about",               "destination": "/",                        "permanent": true }
+    {
+      "source": "/interior-painting-las-vegas/",
+      "destination": "/interior-painting-las-vegas",
+      "permanent": true
+    },
+    {
+      "source": "/door-repair-las-vegas/",
+      "destination": "/door-repair-las-vegas",
+      "permanent": true
+    },
+    {
+      "source": "/flooring-las-vegas/",
+      "destination": "/flooring-las-vegas",
+      "permanent": true
+    },
+    {
+      "source": "/faucet-installation-las-vegas/",
+      "destination": "/faucet-installation-las-vegas",
+      "permanent": true
+    },
+    {
+      "source": "/garbage-disposal-las-vegas/",
+      "destination": "/garbage-disposal-las-vegas",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-handyman-las-vegas/",
+      "destination": "/commercial-handyman-las-vegas",
+      "permanent": true
+    }
   ]
 }
